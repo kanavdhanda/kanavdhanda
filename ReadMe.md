@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Full stack web developer 🌐<br>🤝 Looking to collaborate on Web development projects<br>🔍 Need help with frontend development<br>📚 Learning Express.js and Discord.js<br>🏀 Basketball enthusiast<br>🏊‍♂️ Ask me about swimming 🌊
+👋 Full stack web developer 🌐<br>🤝 Looking to collaborate on Web development projects<br>📚 Learning Express.js and Discord.js<br>🏀 Basketball enthusiast<br>🏊‍♂️ Ask me about swimming 🌊
 
 
 ## 🌐 Socials:
