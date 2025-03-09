@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Full stack web developer 🌐<br>🤝 Looking to collaborate on Web development projects<br>📚 Learning Express.js and Discord.js<br>🏀 Basketball enthusiast<br>🏊‍♂️ Ask me about swimming 🌊
-
+👋 Full stack web developer 🌐<br>🤝 Looking to collaborate on Web development projects<br>📚 Learning Express.js<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanav-dhanda-056766213) 
